@@ -84,6 +84,7 @@ public void asserttest() {
 public void test5() {
 	System.out.println("i have tried it");
 }
+	//khan has tried a lot for maven project
 }
 	
 
